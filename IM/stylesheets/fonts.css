@@ -1,0 +1,13 @@
+@font-face {
+	font-family: 'Source Serif Pro';
+	font-weight: 400;
+	font-style: normal;
+	src: url('../assets/fonts/SourceSerifPro-Regular.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Merriweather';
+	font-weight: 700;
+	font-style: normal;
+	src: url('../assets/fonts/Merriweather-Bold.ttf') format('truetype');
+}
